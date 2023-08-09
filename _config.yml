@@ -12,7 +12,7 @@ email: jyblues@gmail.com
 website: www.github.com/jyblues/jyblues.github.io
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 twitter_username: 
@@ -48,9 +48,14 @@ github_username:  jyblues
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  저는 김승훈입니다. FullStack 개발자로 서버 개발 리드와 설계 그리고 개발하고 있습니다.
+  저는 김승훈입니다.
+  
+  FullStack 개발자로 최근엔 서버 개발 리드와 설계 그리고 개발하고 있습니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  FrontEnd와 BackEnd 모두 설계와 개발 그리고 서비스 경험하였습니다.
+
+  게임개발에 클라이언트와 서버 개발자로 설계와 개발 그리고 서비스 경험하였습니다.
+
 
 content:
   - title: Projects # Title for the section
@@ -62,7 +67,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
+            # icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -77,7 +82,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
+            # icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
