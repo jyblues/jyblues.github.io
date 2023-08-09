@@ -54,44 +54,36 @@ about_content: | # this will include new lines to allow paragraphs
 
   게임개발에 클라이언트와 서버 개발자로 설계와 개발 그리고 서비스 경험하였습니다.
 
+  신기술과 최신 트렌드에 관심이 많고 새로운 기술을 배우는 것을 좋아합니다.
+
+  Open Source에 관심이 많고, 개발자들의 생산성을 높이는 것에 관심이 많습니다.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: XX은행 메타버스 플랫폼 구축
-        link: moim.in
-        # link_text: Project Website
-        # additional_links:
-        #  - title:  sproogen/modern-resume-theme
-            # icon: fab fa-github
-            # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          라이브커머스, 연수원, 상담센터, MICE 개발과 백오피스 설계와 개발 그리고 서비스했습니다.
-
-          Google, Apple, email 인증/예약/승인/초대/멤버관리/조직관리/룸 예약 및 관리/아바타 동기화/Asset 관리 및 동기화
+        link: www.moim.in
+        sub_title: Senior Backend Developer
+        caption: 2021.11 ~ 현재
         description: | # this will include new lines to allow paragraphs
-          NodeJS, TypeScript, JavaScript, ReactJS, MSA(moleculer.io), NoSQL, MongoDB, MySQL, Redis, BullMQ, Zookeeper
-      - layout: top-middle
+          플랫폼 설계와 API, 백오피스 개발, 서비스하였습니다. <br><br>
+          기술 스택
+            - <mark>TypeScript</mark>,<mark>NodeJS</mark>,<mark>Redis</mark>,<mark>Jest UnitTest</mark>, 
+            - <mark>Jenkins</mark>, <mark>AWS</mark>, <mark>Grafana</mark>, <mark>Promethues</mark>
+            - <mark>MongoDB(NoSQL)</mark>, <mark>MySQL</mark>, <mark>Git</mark>
+      - layout: left
         title: Metaverse 플랫폼 개발 및 서비스
-        link: moim.in
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            # icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        link: www.moim.in
+        sub_title: Senior Backend Developer
+        caption: 2021.11 ~ 현재
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          플랫폼 설계와 API, 백오피스 개발, 서비스하였습니다. <br><br>
+          기술 스택
+            - <mark>TypeScript</mark>,<mark>NodeJS</mark>,<mark>Redis</mark>,<mark>Jest UnitTest</mark>, 
+            - <mark>Jenkins</mark>, <mark>AWS</mark>, <mark>Grafana</mark>, <mark>Promethues</mark>
+            - <mark>MongoDB(NoSQL)</mark>, <mark>MySQL</mark>, <mark>Git</mark>
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
