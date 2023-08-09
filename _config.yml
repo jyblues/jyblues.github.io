@@ -49,7 +49,7 @@ github_username:  jyblues
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   저는 김승훈입니다. FullStack 개발자로 서버 개발 리드와 설계 그리고 개발하고 있습니다.
-  
+
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
@@ -58,6 +58,21 @@ content:
     content:
       - layout: top-middle
         title: Metaverse 플랫폼 개발 및 서비스
+        link: moim.in
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: top-middle
+        title: XX은행 메타버스 플랫폼 납품
         link: moim.in
         # link_text: Project Website
         additional_links:
